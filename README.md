@@ -1,2 +1,2 @@
 # JDBC-Operations
-Describes CRUD Operations using JDBC Coonectivity 
+Describes CRUD Operations using JDBC Connectivity 
